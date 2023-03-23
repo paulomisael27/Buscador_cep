@@ -5,4 +5,4 @@ Ilustração:
 
 ![Web 1](menu.PNG)
 
- Para executar, basta iniciar o app.py ou clonar o arquivo
+ Para executar, basta iniciar o app.py ou clonar
