@@ -1,4 +1,4 @@
-# Script desenvolvido com o intuito de usar requisição de API e trazer dados reais
+# Script desenvolvido após o término do curso com o intuito de usar requisição de API e trazer dados reais
 
 
 Ilustração:
